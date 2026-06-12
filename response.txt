@@ -1,0 +1,5 @@
+So you're wondering about forms in web development. In our Sigma web development course, we cover forms and input tags in detail.
+
+You'll learn what forms are, how they work, and how to use them on your website. We'll also dive into specific types of forms like contact pages, Google Forms, and inquiry forms. By the second video, you'll have a good understanding of what these forms are and how they can be used for data submission.
+
+Specifically, in Video 2, we start talking about common types of forms at around the 11.3-second mark. If you want to see this explanation in action, just head over to Video 2.
